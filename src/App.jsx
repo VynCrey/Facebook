@@ -11,7 +11,6 @@ import CategoryPage from './pages/CategoryPage/CategoryPage'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
 //Components
-import ItemListContainer from './components/ItemListContainer/ItemListContainer';
 import NavBar from './components/NavBar/NavBar';
 
 function App() {

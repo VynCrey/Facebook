@@ -22,7 +22,6 @@ function Category() {
       {filterCharacters.map((user) => {
         return (<div key={user.id}><Item user={user}/></div>)
       })}
-      
         
       </div>
   )
